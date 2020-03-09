@@ -4,7 +4,6 @@
 
 ### Takeaways:
 * It is your responsibility to test the code you wrote (not QA)
-* 
 * Save some time to work on your career (everyday, yeap!)
 * You should spend 20 hours/week to study and grow your career
 * A Professional should be humble and know that he will fail sometimes
