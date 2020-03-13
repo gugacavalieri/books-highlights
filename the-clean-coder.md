@@ -26,3 +26,19 @@
 * Tramp Data
 * Conascence
 * Parnas Table
+
+
+## Chapter 2 - Saying No
+
+### Takeaways:
+
+* Saying no it's about working out a solution to get the best outcome to a problem
+* When estimating a goal we have to be assertive and honest
+* Don't compromise yourself with something you can't deliver
+* The temptation to be a hero and "solve problems" is always a big question for developers
+* That normally leads to bad estimates and burnouts
+
+### Trying?
+* There is no trying
+* If your 'trying' does not lead to the desired outcome, you will have failed
+* By promising to try you promising to change your plans
